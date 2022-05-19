@@ -1,0 +1,23 @@
+﻿  Character.cpp
+  cMaze.cpp
+F:\Storage\University\Games Technology Year 1\Semester 2\Object Oriented Development\Assessment\Maze Game\cMaze.cpp(46,36): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\Storage\University\Games Technology Year 1\Semester 2\Object Oriented Development\Assessment\Maze Game\cMaze.cpp(46,58): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\Storage\University\Games Technology Year 1\Semester 2\Object Oriented Development\Assessment\Maze Game\cMaze.cpp(72,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\Storage\University\Games Technology Year 1\Semester 2\Object Oriented Development\Assessment\Maze Game\cMaze.cpp(72,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Coin.cpp
+  cVector2.cpp
+  Enemy.cpp
+  Game.cpp
+F:\Storage\University\Games Technology Year 1\Semester 2\Object Oriented Development\Assessment\Maze Game\Game.cpp(70,3): warning C4551: function call missing argument list
+  GameObject.cpp
+  KillFruit.cpp
+  Level.cpp
+F:\Storage\University\Games Technology Year 1\Semester 2\Object Oriented Development\Assessment\Maze Game\Level.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+F:\Storage\University\Games Technology Year 1\Semester 2\Object Oriented Development\Assessment\Maze Game\main.cpp(18,3): warning C4551: function call missing argument list
+  Pickups.cpp
+  Player.cpp
+  UI.cpp
+  Generating Code...
+F:\Storage\University\Games Technology Year 1\Semester 2\Object Oriented Development\Assessment\Maze Game\Level.cpp(301): warning C4715: 'Level::HandleCollision': not all control paths return a value
+  Maze Final Version.vcxproj -> F:\Storage\University\Games Technology Year 1\Semester 2\Object Oriented Development\Assessment\Maze Game\x64\Debug\Maze Final Version.exe
